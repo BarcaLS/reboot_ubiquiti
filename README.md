@@ -1,4 +1,4 @@
-# reboot_ubiquiti.sh
+# reboot_ubiquiti
 
 Script which reboots Ubiquiti devices in you LAN network.
 
